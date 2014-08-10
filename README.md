@@ -8,5 +8,4 @@ It's simple to play, you move the pipe right and left to catch as much shrooms t
 
 Download
 ========
-No build avaiable for download, You can ofcourse download this repository as a zip file and rename it to <name>.love
-and run it.
+http://www.mediafire.com/download/pj04ls61vgwl6j8/Shrooms+1.0.zip
